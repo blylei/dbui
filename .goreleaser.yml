@@ -45,7 +45,7 @@ changelog:
       - '^conf:'
 release:
   github:
-    owner: KenanBek
+    owner: blylei
     name: dbui
   draft: true
   prerelease: auto
